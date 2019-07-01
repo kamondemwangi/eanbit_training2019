@@ -1,5 +1,5 @@
 # *eanbit_training2019*
-## **repo??**
+## **bioinformagics**
 Repo for bioinformatics training @ kemri welcome trust
 [Link](https://kemri-wellcome.org/2)
 
